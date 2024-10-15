@@ -1,9 +1,6 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-import java.util.LinkedList;
-import java.util.Queue;
-
 class Animal {
     private String name;
     private int order;  // To keep track of arrival order
